@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#\\FirstProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{014D4FB1-0BBF-4DB7-A2B8-8AD78A2C7EC1}|FirstProject\\FirstProject.csproj|e:\\c#\\firstproject\\firstproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{014D4FB1-0BBF-4DB7-A2B8-8AD78A2C7EC1}|FirstProject\\FirstProject.csproj|solutionrelative:firstproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{014D4FB1-0BBF-4DB7-A2B8-8AD78A2C7EC1}|FirstProject\\FirstProject.csproj|E:\\C#\\FirstProject\\firstproject\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{014D4FB1-0BBF-4DB7-A2B8-8AD78A2C7EC1}|FirstProject\\FirstProject.csproj|solutionrelative:firstproject\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Room.cs",
+              "DocumentMoniker": "E:\\C#\\FirstProject\\FirstProject\\Room.cs",
+              "RelativeDocumentMoniker": "FirstProject\\Room.cs",
+              "ToolTip": "E:\\C#\\FirstProject\\FirstProject\\Room.cs",
+              "RelativeToolTip": "FirstProject\\Room.cs",
+              "ViewState": "AQIAAAgAAAAAMjMzM/MiwBQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T05:32:52.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\FirstProject\\FirstProject\\Program.cs",
+              "RelativeDocumentMoniker": "FirstProject\\Program.cs",
+              "ToolTip": "E:\\C#\\FirstProject\\FirstProject\\Program.cs",
+              "RelativeToolTip": "FirstProject\\Program.cs",
+              "ViewState": "AQIAACEAAAAANTMzMzMnwFIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T06:56:24.993Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
